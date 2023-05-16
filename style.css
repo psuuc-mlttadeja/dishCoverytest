@@ -1,0 +1,61 @@
+.navbar-nav{
+  font-size: 1.5vw;
+
+}
+
+.background {
+    background-image: url(hero-bg.png);
+   background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    min-height: 100vh;
+    
+}
+.navbar-nav li{
+    padding-left:30px;
+    padding-right:30px;
+  }
+  .btn{
+    font-size: 1.5vw;
+  }
+  .title{
+    font-size: 3vw;
+    font-weight: bold;
+  }
+  .tagline{
+    font-size: 2vw;
+   
+  }
+  .col-lg-6{
+   padding-right:10% ;
+
+  }
+  .container{
+    padding-top: 3%;
+  }
+  .hero{
+    
+  }
+  .img{
+    width: 30%;
+  }
+  #feature{
+    margin-top: 5%;
+  }
+  .nav-item{
+  font-size: 1.5vw;}
+  .container .col{
+    padding-left:30px;
+    padding-right:30px;
+  }
+span{
+  font-size: 3vw;
+  font-weight: bolder;
+  color: #FFCA2C;
+}
+svg {
+  color: #FFCA2C;
+  background-color: white;
+ 
+
+}
